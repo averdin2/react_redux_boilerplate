@@ -1,0 +1,8 @@
+React
+npm i create-react-app . or npm i create-react-app example_name
+
+Bootstrap/Reactstrap
+npm i bootstrap reactstrap
+
+Redux
+npm i redux react-redux redux-thunk
